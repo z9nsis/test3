@@ -1,7 +1,8 @@
 
 
 
+*.txt
 
-test1/*.txt
+# test1/*.txt
 
-!test1/1.txt
+# !test1/1.txt
